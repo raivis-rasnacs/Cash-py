@@ -7,17 +7,14 @@ Iedomāsimies, ka Tev ir jānorēķinās par pirkumu. Tavā rīcībā ir 25 cent
 Rezultāts: 5
 
 ## Testpiemēri
-23 >> 5
-
-10 >> 1
-
-31 >> 3
-
-104 >> 8
+23 >> 5<br>
+10 >> 1<br>
+31 >> 3<br>
+104 >> 8<br>
 
 ## Uzdevums:
-Uzbūvē algoritmu, kas ļauj ievadīt summu centos un nosaka mazāko nepieciešamo monētu skaitu pirkuma apmaksai.
-Jāizmanto dalīšana ar atlikumu.
-**Programmai jāizvada skaitlis, kas norāda monētu skaitu.**
-Pievieno komentārus, kas paskaidro kodu!
+Uzbūvē algoritmu, kas ļauj ievadīt summu centos un nosaka mazāko nepieciešamo monētu skaitu pirkuma apmaksai.<br>
+Jāizmanto dalīšana ar atlikumu.<br>
+**Programmai jāizvada skaitlis, kas norāda monētu skaitu.**<br>
+Pievieno komentārus, kas paskaidro kodu!<br>
 Pēdējā rindā komentārā pieraksti savu uzvārdu un klasi!
