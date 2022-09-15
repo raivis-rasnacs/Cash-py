@@ -7,10 +7,12 @@ Iedomāsimies, ka Tev ir jānorēķinās par pirkumu. Tavā rīcībā ir 25 cent
 Rezultāts: 5*
 
 ## Testpiemēri
-23 >> 5<br>
-10 >> 1<br>
-31 >> 3<br>
-104 >> 8<br>
+|Ievaddati|Izvaddati|
+|---|---|
+|23|5|
+|10|1|
+|31|3|
+|104|8|
 
 ## Uzdevums:
 Uzbūvē algoritmu, kas ļauj ievadīt summu centos un nosaka mazāko nepieciešamo monētu skaitu pirkuma apmaksai.<br>
