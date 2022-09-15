@@ -14,7 +14,6 @@ Rezultāts: 5*
 
 ## Uzdevums:
 Uzbūvē algoritmu, kas ļauj ievadīt summu centos un nosaka mazāko nepieciešamo monētu skaitu pirkuma apmaksai.<br>
-Jāizmanto dalīšana ar atlikumu.<br>
 **Programmai jāizvada skaitlis, kas norāda monētu skaitu.**<br>
 Pievieno komentārus, kas paskaidro kodu!<br>
 Pēdējā rindā komentārā pieraksti savu uzvārdu un klasi!
