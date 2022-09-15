@@ -8,8 +8,11 @@ Rezultāts: 5
 
 ## Testpiemēri
 23 >> 5
+
 10 >> 1
+
 31 >> 3
+
 104 >> 8
 
 ## Uzdevums:
